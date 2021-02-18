@@ -1,3 +1,5 @@
+//maintain Glocery list
+
 glocery = {}
 gloceryHistory = []
 
@@ -28,6 +30,7 @@ for i in gloceryHistory:
        total_cost += i['Price']*i['Q']
         
 print()
+
 print("Total item = {}".format(total_item))
 print("Total Cost = {}".format(total_cost))
 
