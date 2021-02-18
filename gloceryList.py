@@ -1,4 +1,4 @@
-//maintain Glocery list
+#maintain Glocery list
 
 glocery = {}
 gloceryHistory = []
